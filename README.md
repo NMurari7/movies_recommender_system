@@ -15,6 +15,7 @@ https://youtu.be/sGCKKOTi9E0
 To install the required packages, run the following command:
 
 pip install pandas numpy scikit-learn streamlit
+
 Dataset
 The dataset used for this project is the TMDb dataset. It contains information about movies, including their titles, genres, overviews, and other details. The dataset can be found at https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata.
 
