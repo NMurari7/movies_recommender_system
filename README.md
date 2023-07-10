@@ -3,7 +3,10 @@
 
 
 ## Demo Video
-https://youtu.be/sGCKKOTi9E0
+
+https://github.com/NMurari7/movies_recommender_system/assets/70143030/5e546779-d61e-4213-8ed3-231221f88932
+
+
 
 ### Screenshots
 <img width="586" alt="image" src="https://user-images.githubusercontent.com/70143030/208256984-814f9a86-5f02-4391-9bfe-1baf87af888a.png">
